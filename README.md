@@ -4,13 +4,4 @@ Virtual Shopping Assistant Application for Dyscalculia
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dyscalculia is a specific and persistent difficulty in understanding numbers which can lead to a diverse range of difficulties with mathematics. It will be unexpected in relation to age, level of education and experience and occurs across all ages and abilities. ViRata is an Android-based mobile application that assists people with dyscalculia in doing shopping and purchasing activities. This mobile app have been awarded "Gold Medal" on Vi-BiiDE 2022 UiTM Pahang.
