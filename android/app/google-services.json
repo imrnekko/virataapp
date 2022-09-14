@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385904640945",
+    "project_id": "virata-e567f",
+    "storage_bucket": "virata-e567f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385904640945:android:3e244c21882a7ff0ccb390",
+        "android_client_info": {
+          "package_name": "com.MisuiGames.virata_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385904640945-45fj2ikqfl6252f5cr93c2b5o2ppp0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClM6tGfHd6cjpxllniHlt8EtiETqBHr8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385904640945-45fj2ikqfl6252f5cr93c2b5o2ppp0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
